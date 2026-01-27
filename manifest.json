@@ -1,1 +1,15 @@
-
+{
+    "name": "Bachhrawan Swad",
+    "short_name": "Web App",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ff9900",
+    "icons": [
+        {
+            "src": "https://imgbox.com/8taNIk5B",
+            "sizes": "800x800",
+            "type": "image/png"
+        }
+    ]
+}
